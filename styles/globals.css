@@ -22,6 +22,7 @@ body {
 .weather--icon {
   width: 40vw;
   height: 40vw;
+  margin-top: 8vh;
 }
 
 .info--text--city {
